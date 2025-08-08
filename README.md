@@ -115,7 +115,3 @@ Make sure `.env` contains your RPC URL and Etherscan API key.
 ## 📄 License
 
 This project is licensed under the MIT License.
-
-```
-
-```
