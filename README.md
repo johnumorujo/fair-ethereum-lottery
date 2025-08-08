@@ -70,19 +70,13 @@ ETHERSCAN_API_KEY=<YOUR_ETHERSCAN_KEY>
 
 ## 🚀 Make Commands
 
-| Command               | Description                                        |
-
-| --------------------- | -------------------------------------------------- |
-
-| `make build`          | Compile the contracts                              |
-
-| `make test`           | Run the Foundry tests                              |
-
-| `make install`        | Install all dependencies                           |
-
-| `make deploy-anvil`   | Deploy to a local Anvil instance                   |
-
-| `make deploy-sepolia` | Deploy to Sepolia testnet (requires `.env` config) |
+| Command               | Description                                           |
+| --------------------- | ----------------------------------------------------- |
+| `make build`          | 🛠 Compile the contracts                               |
+| `make test`           | 🧪 Run the Foundry tests                              |
+| `make install`        | 📦 Install all dependencies                           |
+| `make deploy-anvil`   | 🖥 Deploy to a local Anvil instance                    |
+| `make deploy-sepolia` | 🌐 Deploy to Sepolia testnet (requires `.env` config) |
 
 ---
 
