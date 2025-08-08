@@ -1,4 +1,4 @@
-# 🎟️ Raffle Smart Contract
+# 🎟️ Fair Ethereum Lottery
 
 A fully on-chain Ethereum raffle system built in Solidity. Participants can enter the raffle by sending ETH, and a verifiably random winner is chosen using Chainlink VRF for fairness and transparency.
 
