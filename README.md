@@ -83,18 +83,20 @@ ETHERSCAN_API_KEY=<YOUR_ETHERSCAN_KEY>
 ## 🧪 Local Testing
 
 1. Start a local Anvil blockchain:
-      ```bash
+
+```bash
 
 anvil
 
-````
+```
 
 2. In a new terminal, deploy the contract:
-      ```bash
+
+```bash
 
 make deploy-anvil
 
-````
+```
 
 ---
 
@@ -113,3 +115,7 @@ Make sure `.env` contains your RPC URL and Etherscan API key.
 ## 📄 License
 
 This project is licensed under the MIT License.
+
+```
+
+```
